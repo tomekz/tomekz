@@ -6,6 +6,7 @@ Full stack developer at [zooplus](https://github.com/zooplus)
 
 ### Find me elsewhere 🌎
 
+[📫: Home page](https://tomekz.dev)
 [🐦: Twitter](https://twitter.com/tomek_zadrozny) <br>
 [💼: LinkedIn](https://www.linkedin.com/in/tzadrozny/) <br>
-[📫: Home page](https://tomekz.dev)
+
